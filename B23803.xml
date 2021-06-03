@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A philosophical discourse of earthquakes occasioned by the late earthquake, September the 8th, 1692 / by C.H.</title>
+            <author>C. H.</author>
+         </titleStmt>
+         <extent>Approx. 47KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23803</idno><idno type="EEBO-CITATION">8153422</idno>
+  <idno type="VID">204219</idno>
+  <idno type="EEBO-PROQUEST">2248498321</idno>
+  
+            <idno type="STC">Wing H16</idno>
+            <idno type="OCLC">08153422</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23803)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204219)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1230:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A philosophical discourse of earthquakes occasioned by the late earthquake, September the 8th, 1692 / by C.H.</title>
+                  <author>C. H.</author>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Earthquakes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:204219:1"/>
+            <pb facs="tcp:204219:2"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>E. BOHƲN.</signed>
+               <dateline>
+                  <date>
+                     <hi>November</hi> 17. 1692.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:204219:2"/>
+            <p>A Philosophical Discourse OF Earthquakes: Occasioned by the <hi>Late Earthquake,</hi> SEPTEMBER the 8th. 1692.</p>
+            <p>By <hi>C. H.</hi>
+            </p>
+            <q>Non tota solido Contextu Terra in unum us{que} fundi<g ref="char:EOLhyphen"/>tur: sed multis partibus Cava, &amp; caecis suspensa latebris, habet inania sine humore.
+<bibl>
+                  <hi>Sen. Lib. 5. Nat. Qu. C. 15.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby,</hi> at the <hi>Bishop</hi>'s <hi>Head</hi> in St. <hi>Paul</hi>'s Church-Yard, 1693.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:204219:3"/>
+            <pb n="1" facs="tcp:204219:3"/>
+            <head>A DISCOURSE OF Earthquakes.</head>
+            <p>AN Earthquake is the great inconve<g ref="char:EOLhyphen"/>nience of Nature; and whereas all other evils admit of some remedy to alleviate them, nothing remains to this, but that it happens more sel<g ref="char:EOLhyphen"/>dome. Against Thunders, and when Nature seems to be in an angry fit among the Clouds, and throws down its destructive Fires, some deep sub<g ref="char:EOLhyphen"/>terraneous Caves may perhaps afford a refuge; such as that reported to be made by <hi>Augustus Cae<g ref="char:EOLhyphen"/>sar</hi> in the <hi>Flaminian</hi> way, where being affrighted with Lightning he used to retire. But against such a voracious evil there is no security. The Sea
+<pb n="2" facs="tcp:204219:4"/>it self affords no safety, when its Waters are swel<g ref="char:EOLhyphen"/>led beyond their natural bounds, by the fury of subterraneous Exhalations.</p>
+            <p>The best use therefore we can make of these Prodigies and unusal Accidents, is to contemplate the infinite Wisdom and Power of God, in the con<g ref="char:EOLhyphen"/>trivance of this Earth which we inhabit. The late Earthquake which hapned <hi>Sept.</hi> the 8th. was felt not only at <hi>London,</hi> but at the same time near fif<g ref="char:EOLhyphen"/>ty miles distant in <hi>Sussex,</hi> where I then was; and which (as was observed by credible Persons) sen<g ref="char:EOLhyphen"/>sibly shook one part of a House, while the other was perfectly unmoved, and passed according to the bigness of the hollows and ramifications of vast subterraneous Caverns, with a more or less sensi<g ref="char:EOLhyphen"/>ble concussion. This unusual Phaenomenon with us, led me to the consideration of the immediate Origine and Natural Causes of Earthquakes; not at all doubting, but that there is a higher Power which moderates and guides the blind impetus and force of such raging and ferocient Motions. In order to which I shall consider first the Frame and Structure of this present Earth, which I shall bor<g ref="char:EOLhyphen"/>row from such Authors as my present station would allow me, and so far as my Judgment extends, reflect upon the Reasons of their several Hypo<g ref="char:EOLhyphen"/>theses.</p>
+            <div n="1" type="section">
+               <pb n="3" facs="tcp:204219:4"/>
+               <head>SECT. I.</head>
+               <p>WE are to know therefore, That the Earth is no where one entire compacted Mass, or solid Contexture, but bored through with in<g ref="char:EOLhyphen"/>finite Burrows and Cavities, which pass under the very bottom of the Sea, and dispread them<g ref="char:EOLhyphen"/>selves into infinite Branches throughout the whole Terrestrial Globe, like the Ramifications of Veins, and Nerves, and Arteries in the Humane Body. And as some of these are the Conduits to supply the Body with an aqueous Substance, so through others is derived a Substance more unctuous and balsamick: And lastly, others convey up and down for the motion of the Corporeal Frame, a certain Igneous, Spirituous, and Celestial Mat<g ref="char:EOLhyphen"/>ter. To which, by an easie Analogy, we may imagine, That some of these dark Recesses, and deep Burrows, are no other than Aquaeducts, and that by these this exteriour Sea may have a com<g ref="char:EOLhyphen"/>munication with that inmost or deepest Abyss, and is carried to the roots of Mountains and Hills; where, as by certain Alembicks, it is distilled, and becomes in a great measure the Original of Foun<g ref="char:EOLhyphen"/>tains and Rivers, which by a constant current re<g ref="char:EOLhyphen"/>turn back what they borrowed of the Sea. Others are like <hi>Aeolipyles,</hi> wherein a constant Air or Wind is carried, which serves as well for the forcing the Waters into the dark Vaults, as for the exsusci<g ref="char:EOLhyphen"/>tation
+<pb n="4" facs="tcp:204219:5"/>and keeping alive that constant and perpe<g ref="char:EOLhyphen"/>tual Fire which Nature keeps under ground. And therefore as there is a constant passage through these subterraneous Burrows for Air and Water; so we cannot imagine but that such an active Element as Fire should every where pervade and pass through them.</p>
+            </div>
+            <div n="2" type="section">
+               <head>SECT. II.</head>
+               <p>NOW that the Earth is in all places full of these Cavities and hollow Passages, is evi<g ref="char:EOLhyphen"/>dent,</p>
+               <p n="1">1. From the communication that some Seas are said to have one with another; as for instance, The <hi>Caspian</hi> Sea amongst others, receives into it that vast River <hi>Volga</hi> (of which <hi>Varenius</hi> in his Geo<g ref="char:EOLhyphen"/>graphy, <hi>Lib.</hi> 1. <hi>C.</hi> 16. <hi>Propos.</hi> 5. says,
+<q rend="margQuotes">That with<g ref="char:EOLhyphen"/>in the compass of a Year it pours such a quanti<g ref="char:EOLhyphen"/>ty of Water into the <hi>Caspian</hi> Sea, as would be able to cover the whole Globe of the Earth,) without any visible out let.</q> Therefore it being im<g ref="char:EOLhyphen"/>possible that the redundancy of this Water should be extracted by the Sun in vapours, this Sea must sensibly increase, and at last over-flow all its banks; which we find it does not, but continues with little or no variation in the same Altitude.</p>
+               <pb n="5" facs="tcp:204219:5"/>
+               <p>Hence it is very rationally supposed by modern Geographers, that it hath Communication with some other Seas by subterraneous Ducts and Chanels. Which <hi>Athanasius Kircher</hi> in his <hi>Mun<g ref="char:EOLhyphen"/>dus subterraneus, Tom.</hi> 1. <hi>c.</hi> 13. <hi>Sect.</hi> 1. with great probability asserts to be these two chiefly: The first is a vast and infernal Cavern passing even under Mount <hi>Cancasus,</hi> whereby the <hi>Caspian</hi> dis<g ref="char:EOLhyphen"/>burdeneth and dischargeth it's Waters into the <hi>Euxine</hi> Sea, the whole Region of <hi>Georgia</hi> and <hi>Me<g ref="char:EOLhyphen"/>grelia</hi> lying between, being as it were a Bridge over these Waters that pass underneath; and this he proves first, from constant and daily observa<g ref="char:EOLhyphen"/>tion, <hi>viz.</hi> That when the Eastern Winds do the most fiercely rage and exercise their force upon the <hi>Caspian</hi> Sea, at the same time there are obser<g ref="char:EOLhyphen"/>ved greater Ebullitions and Agitations in the <hi>Euxine</hi> Sea: And on the contrary, When the Western Winds prevail, and violently agitate the <hi>Euxine,</hi> the <hi>Caspian</hi> suffers unusual perturbations: which is an evident sign that these two Seas com<g ref="char:EOLhyphen"/>municate one with another in reciprocal Motions through hidden and wide subterraneous Burrows. Secondly, he argues from some rejectaneous Of<g ref="char:EOLhyphen"/>fals found in the <hi>Euxine,</hi> which are proper only to the <hi>Caspian</hi> Sea, such as a certain kind of Alga or Sea<g ref="char:EOLhyphen"/>weed, and Serpents, and the planks of ships made of such timber as grows not about the <hi>Euxine</hi> but the <hi>Caspian</hi> Sea. Whereby the Communication of these two Seas further appears.</p>
+               <pb n="6" facs="tcp:204219:6"/>
+               <p>The other Out-let or subterraneous Duct leads into the <hi>Sinus Persicus,</hi> or Persian Bay; in which there is a Vortex or Gulf, which at some times swallows up the Waters to a very sensible and re<g ref="char:EOLhyphen"/>markable decrease, and after a while the Chanel being full, no token or sign of any Vortex appears. By which it is probably conjectured that when the <hi>Caspian</hi> Sea agitated by violent Winds hath thrown much of it's Waters into the <hi>Euxine</hi> Sea, it is again replenished from this <hi>Persian</hi> Gulf. And the like Communication is found between the Red Sea and the Mediterranean by these hidden Bur<g ref="char:EOLhyphen"/>rows and Perforations under ground.</p>
+               <p n="2">2. Another Argument of the hollowness of the Earth, is the passage of Rivers underground, which break forth again in distant places, and ap<g ref="char:EOLhyphen"/>pear as new Rivers. The most famous of these is <hi>Niger,</hi> a River in <hi>Africa,</hi> which modern Geogra<g ref="char:EOLhyphen"/>phers will have to be derived from <hi>Nilus</hi> by sub<g ref="char:EOLhyphen"/>te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raneous Aquae ducts: This great River having his Course obstructed and shut up with a mighty chain of the Mountains of <hi>Nubia,</hi> hath either found or forced a passage under them, and meeting in those subtenraneous Vaults with a fresh supply, breaks out on the Western side of those Moun<g ref="char:EOLhyphen"/>tains and falls into the <hi>Atlantick</hi> Ocean.</p>
+               <p>Thus <hi>Tygris▪</hi> in <hi>Mesopotamia</hi> crossing the Lake <hi>Arethusa;</hi> and meeting with the Mountain <hi>Taurus,</hi> loseth himself there in a vast and deep Den or Cave, and ariseth again on the other side; after<g ref="char:EOLhyphen"/>wards
+<pb n="7" facs="tcp:204219:6"/>passing through the Lake of <hi>Thospites,</hi> he again hides himself under ground, where traveling about six <hi>German</hi> Miles, he breaks forth anew, and continues his course till not far from <hi>Babylon,</hi> he falls into <hi>Euphrates.</hi>
+               </p>
+               <p>
+                  <hi>Aristotle,</hi> in his Meteors, takes notice of many such Rivers about <hi>Arcadia,</hi> in <hi>Peloponnesus,</hi> ab<g ref="char:EOLhyphen"/>sorped in gaping Hollows of the ground, and at some distance emerging again. <hi>Lycus</hi> and <hi>Erasinus</hi> are mentioned by <hi>Ovid, Met.</hi> 15.
+<q>
+                     <l>
+                        <hi>Sicubi terreno Lycus est epotus hiatu,</hi>
+                     </l>
+                     <l>
+                        <hi>Existit procul hinc, alioque renascitur orbe.</hi>
+                     </l>
+                     <l>
+                        <hi>Sic modo combibitur, tecto modò gurgite lapsus</hi>
+                     </l>
+                     <l>
+                        <hi>Redditur Argolicis ingens Erasinus in agris.</hi>
+                     </l>
+                  </q> Some of the <hi>Greek</hi> Writers affirm, that <hi>Alpheus,</hi> a River of <hi>Achaia,</hi> is drunk up by a wide <hi>Hiatus,</hi> or opening of the ground, and passes in its hid<g ref="char:EOLhyphen"/>den Burrows, even into <hi>Sicily,</hi> and ariseth in the shoar of <hi>Syracuse,</hi> where it is known by the name of <hi>Arethusa:</hi> and to confirm their conjecture, they say that every fifth year <hi>Arethusa</hi> in <hi>Sicily</hi> casts up dung of beasts at the same time when the Olym<g ref="char:EOLhyphen"/>pick Games were celebrated in <hi>Achaia,</hi> and the dung and offal of the Sacrifices thrown into <hi>Al<g ref="char:EOLhyphen"/>pheus.</hi>
+               </p>
+               <p>After the same manner <hi>Guadiana,</hi> anciently known by the name <hi>Anas,</hi> a river between <hi>Portu<g ref="char:EOLhyphen"/>gal</hi> and that part of <hi>Spain</hi> called <hi>Boetica,</hi> falls into a subterraneous passage, and after a dark and dis<g ref="char:EOLhyphen"/>mal
+<pb n="8" facs="tcp:204219:7"/>journey of Thirty two Miles, breaks forth again to see the light of this upper World. Whence the <hi>Spaniards</hi> boast that in their Kingdom they have a Bridge upon which there stand stately Woods and fair Meadows, and on which some thousands of Cattle are fatted.</p>
+               <p>But we need not search into remote parts of the World, when our own Countrey furnishes us with diverse of these Examples, to shew us that there is no part of the Earth but what is fistulous and bored through with innumerable Passages di<g ref="char:EOLhyphen"/>varicated up and down far and wide. The <hi>Mole,</hi> a small Rivulet in <hi>Surry,</hi> falls into a hollow of the ground not far from <hi>Boxhill</hi> (so called from the great number of Box-Trees there growing) and rises again at some considerable distance.</p>
+               <p>Now by these Rivers throwing themselves into a Cave or opening of the Earth, and continuing their Course, some of them at least, for many Miles, and then shewing themselves again, we are sensibly taught that the Earth is not one solid and compacted Mass; but formed into many subter<g ref="char:EOLhyphen"/>raneous Caverns, Pipes and hollow Recesses, some of vast dimensions and large Capacities, which besides the Water that may be supposed in some to be stagnant, in others gliding through them, are filled with Air and Vapours, and copious Ex<g ref="char:EOLhyphen"/>halations of all sorts of Mineral Bodies.</p>
+               <p>I shall now conclude this Argument with the story of the <hi>Sicilian</hi> Diver mentioned by <hi>Kircher, l.</hi> 2 <hi>c.</hi> 15. of his <hi>Mundus subterraneus;</hi> taken out of
+<pb n="9" facs="tcp:204219:7"/>the Archives of <hi>Sicily,</hi> and transmitted to him by the Secretary of State.</p>
+               <p>There was in the time of <hi>Frederick</hi> King of <hi>Sicily</hi> a famous Diver, who through continual use had made the Waters so familiar to him as that they seemed to be his natural Element, which had so chang'd his Nature and Temper, that he seemed more like an Amphibious Creature than a Man; a Cartilagineous substance like the foot of a Goose growing between his Fingers: Hence they cal<g ref="char:EOLhyphen"/>led him <hi>Piscecola,</hi> or <hi>Nicholas Fish.</hi> The King being at <hi>Messina,</hi> and hearing of <hi>Nicholas,</hi> was de<g ref="char:EOLhyphen"/>sirous to be informed of the Nature of <hi>Charybdis,</hi> of which he had been told such wonderful things. He was at first unwilling to undertake so dange<g ref="char:EOLhyphen"/>rous an enterprise: but the King causing a Golden Plate to be thrown into <hi>Charybdis,</hi> the better to animate <hi>Nicholas,</hi> promised him he should have it, if he would venture to fetch it out. <hi>Nicholas</hi> for the love of the Gold quickly accepted of the con<g ref="char:EOLhyphen"/>dition, and throws himself into the devouring Gulf, where, after three quarters of an hours stay, he was by the violence of the Water cast up again, with the Golden Plate in his hand. So soon as he had refreshed himself, and recovered the Fatigue of his descent, he was brought into the King's presence, who demanding of him an account of all things he had observed in the Deep, the Diver returns him this answer, That he had now executed his Majestie's Commands, but if he had known before hand what he should have met withal, he
+<pb n="10" facs="tcp:204219:8"/>would not have ventured, though the King would have given him half his Dominion. The King asked him the Reason; the Diver replyes, That there were diverse things which rendred it ex<g ref="char:EOLhyphen"/>tremely fearful. As <hi>First,</hi> The vehemence and force of a River boiling out of the wide jaws of the very bottom of the Sea, which could not be resisted by a Man though of the greatest strength. <hi>Secondly,</hi> The multitude of Rocks whose Cavities he could scarce enter without a manifest danger of his life. <hi>Thirdly,</hi> The Whirlpools, and violent streams of subterraneous Waters encountring one another from the inmost bowels of the Rocks, that it were enough to make a man dye with fear. <hi>Fourthly,</hi> The vast companies of <hi>Polypi,</hi> of which he saw one whose body was as big as a man, and his <hi>Cirri</hi> ten foot long, with which had he been en<g ref="char:EOLhyphen"/>compassed, the rude embrace would even have scared him to death. Besides the multitude of <hi>Dog-fish,</hi> equalling the bigness of <hi>Dolphins,</hi> which have their Kennels about the Rocks, and armed with three rows of Teeth, with which they divide their Prey with greater facility than any Sword could cut it. Being asked, how he could so soon find the Plate, he answered that he found it (according to his conjecture) in the Cavity of a Rock, but if it had sunk directly to the bottom, it had been im<g ref="char:EOLhyphen"/>possible ever to have descended in such violent whirlings, and tempestuous regurgitations of sub<g ref="char:EOLhyphen"/>terraneous Waters.</p>
+               <pb n="11" facs="tcp:204219:8"/>
+               <p n="3">3. There are subterraneous Cavities of another Nature, and more remarkable, which they call VOLCANO'S or fiery Mountains,
+<note place="margin">
+                     <hi>See Dr.</hi> Burnet's <hi>Theory of the Earth,</hi> l. 1. c. 9.</note> that belch out Falmes and Smoke and Ashes, and sometims great Stones and broken Rocks, and lumps of Earth or some Metallick mixture; and throw them to an incredible distance by the force of the Eruption. These argue great vacuities in the Bowels of the Earth, and Magazines of combu<g ref="char:EOLhyphen"/>stible matter treasured up in them. And as the exhalations within these places must be copious, so they must lye in long Mines or Trains to do so great Execution, and to last so long. 'Tis scarce credible what is reported concerning some Erupti<g ref="char:EOLhyphen"/>ons of <hi>Vesuvius</hi> and <hi>Aetna?</hi> History tells us that some Eruptions of <hi>Vesuvius</hi> have carried Cinders and Ashes as far as <hi>Constantinople: Ammianus Marcellinus</hi> saith, That they were so affrighted with them, that the Emperor left the City, and that there was a day observ'd yearly in memorial of it.</p>
+               <p>
+                  <hi>Aetna</hi> is of greater fame and fury, a Chronicle of whose more remarkable Eruptions we have in <hi>Kircher</hi> his <hi>Mundus subterraneus.</hi>
+                  <note place="margin">
+                     <hi>Mund. Subter,</hi> l. 4.</note> The last which hapned in the year 1669. is no whit inferiour to any foregoing, the melted matter which the Moun<g ref="char:EOLhyphen"/>tain poured forth extending in breadth six miles, and running as far as <hi>Catanea,</hi> foroing it's passage even into the very Sea, and forming a conveni<g ref="char:EOLhyphen"/>ent Port of that melted Matter. It is excellently
+<pb n="12" facs="tcp:204219:9"/>well described by the Earl of <hi>Winchelsea</hi> in a Let<g ref="char:EOLhyphen"/>ter to King <hi>Charles</hi> the Second, afterwards Print<g ref="char:EOLhyphen"/>ed, who in his return from <hi>Constantinople</hi> touch<g ref="char:EOLhyphen"/>ed at <hi>Catanea</hi> at the time when the Mountain flamed.</p>
+               <p>There is no quarter of the World destitute of these flaming VOLCANO'S. <hi>Asia</hi> abounds with many of them up and down. <hi>Africa</hi> has no less than Eight remarkable <hi>Volcano's,</hi> besides in<g ref="char:EOLhyphen"/>numerable Crater's and sulphureous Grotto's or Caves. In the New World or <hi>America,</hi> in that vast Chain of Mountains called the <hi>Andes,</hi> there are reported to be no less than Fifteen; some of which by the great quantities of sulphureous Mat<g ref="char:EOLhyphen"/>ter which they contain, and terrible Eruptions, have brought unspeakable Calamities to the King<g ref="char:EOLhyphen"/>dom of <hi>Chile,</hi> absorping and swallowing up whole Cities by prodigious Divulsions of the Ground, and over-turning others by violent Con<g ref="char:EOLhyphen"/>cussions. In the bowels of which Mountains there are Caves or Subterraneous Receptacles of such Extent and Capacity as to equal whole Regions: in which are likewise the Cataracts of mighty Rivers, which pour their Waters with such a horrible noise, as is beyond expression. So that Nature here seems to keep house underground, and the hollows of the Mountains to be the fun<g ref="char:EOLhyphen"/>nels or Chimneys, by which the smoke and fu<g ref="char:EOLhyphen"/>liginous matter of those everlasting Fires a<g ref="char:EOLhyphen"/>scends.</p>
+               <pb n="13" facs="tcp:204219:9"/>
+               <p>And lest the North should be thought con<g ref="char:EOLhyphen"/>demned to the inclemency of eternal Cold, Na<g ref="char:EOLhyphen"/>ture, or rather the Wise Author and disposer of; Nature, hath placed there likewise divers VOL<g ref="char:EOLhyphen"/>CANO'S, as <hi>Hecla</hi> in <hi>Islandia,</hi> whose top though covered with perpetual Snow, yet the roots flame with inextinguishable Fire, belching forth out of its Cavities with formidable Thun<g ref="char:EOLhyphen"/>ders, such vast quantities of Stones and Ashes, as render all the circumjacent ground naked and bar<g ref="char:EOLhyphen"/>ren.</p>
+               <p>And in <hi>Greenland</hi> nearer to the very Pole, there is said to be a VOLCANO or flaming Moun<g ref="char:EOLhyphen"/>tain; at the foot of which (as is reported by <hi>Bar<g ref="char:EOLhyphen"/>tholomew Zenet,</hi> the King of <hi>Denmark</hi>'s chief Ad<g ref="char:EOLhyphen"/>miral, who by I know not what chance was cast upon those coasts) there is a Monastery of Do<g ref="char:EOLhyphen"/>minican Friars, and not far from it a Flaming Mountain, at whose foot a hot Spring breaks forth: by these Waters derived in pipes, not on<g ref="char:EOLhyphen"/>ly all the Cells of the Monks are heated like stoves, but their flesh and bread is baked. The Mountain belches forth a sort of Pumice stone, or <hi>Tophus,</hi> with which the whole Monastery is built; for the <hi>Tophi</hi> being soaked in this Water, stick together as if by a kind of Bitumen. Here likewise are cu<g ref="char:EOLhyphen"/>rious Gardens watered with this boiling Water, in which are all sorts of Flowers and Fruits. And after this Water hath run through the Gardens, it falls into a Bay or haven hard by, whereby it comes to pass that the Water there is never Fro<g ref="char:EOLhyphen"/>zen,
+<pb n="14" facs="tcp:204219:10"/>and for that reason frequented by innume<g ref="char:EOLhyphen"/>rable Fowls and Fish, which abundantly suffice the inhabitants for Food.</p>
+               <p>The like Flammivomous Mountains are observed towards the Southern Pole.</p>
+               <p>To shew us further that the Earth is every where replenished with these deep and dark ca<g ref="char:EOLhyphen"/>verns and recesses:
+<note place="margin">
+                     <hi>Dr.</hi> Bur<g ref="char:EOLhyphen"/>net's <hi>Theo<g ref="char:EOLhyphen"/>ry of the Earth,</hi> l. 1. c. 9.</note> Miners and those that work under ground, meet with many more in the bowels of the Earth, that never reach to the top of it. Burrows and Chanels, and Clefts and Caverns that never had the comfort of one beam of light since the first formation of the Earth. And where we think the ground is firm and solid as upon Heaths and Downs, it often betrays its hollow<g ref="char:EOLhyphen"/>ness by sounding under the Horses feet, and the Chariot wheels that pass over it. We do not know when and where we stand upon good ground, if it was examined deep enough. So that it would amaze the stoutest heart, and make him ready to dye with fear, if he could see into the subterrane<g ref="char:EOLhyphen"/>ous World, and view the dark Recesses and Apart<g ref="char:EOLhyphen"/>ments of Nature under ground; and behold that even the strongest of our Pyles of building, whose foundation we think is laid firm and fast, yet is set upon an Arch or Bridge, made by the inclining and bending of the parts of the Earth upon one another, over an immense or prodigious Vault, at the bottom of which lyes an unfathomable Sea, and its upper hollows filled with stagnating Air, and with the exspirations of sulphureous and bitu<g ref="char:EOLhyphen"/>minous
+<pb n="15" facs="tcp:204219:10"/>Matter. Upon such a dreadful Abyss it is that we walk and ride and sleep, and are sustain<g ref="char:EOLhyphen"/>ed only by an Arched Roof not of equal thickness in all places.</p>
+            </div>
+            <div n="3" type="section">
+               <head>SECT. III.</head>
+               <p>THIS being the present state and frame of the Earth, it follows, <hi>First,</hi> That no place can promise it self an immunity and freedom from Earthquakes, because there is no Countrey but what is perforated by these subterraneous Hollows and Pipes: And the more Cavernous any Re<g ref="char:EOLhyphen"/>gion is, the more obnoxious to Earthquakes. For were the Earth one solid and entire Mass, closely compacted together, there could never have been naturally any such dreadful PHAENOMENON as an Earthquake. For, whatever is the Cause of Earthquakes, it is evident, that it passes or glides along through the subterraneous Cavities of the Earth. And we have before shewed, That there is no vast tract of Land, or quarter of the World, but abounds with VOLCANO'S, sulphu<g ref="char:EOLhyphen"/>reous Crater's, and AESTUARIES, from which by greater Cavities branched every way into smal<g ref="char:EOLhyphen"/>ler Pipes, the subterraneous Heat is carried through
+<pb n="16" facs="tcp:204219:11"/>all parts of the World. As in the structure of a Humane Body, there is not the least part but is furnished with capillary Veins, which convey the Blood to it.</p>
+               <p>
+                  <hi>Secondly,</hi> Things being made by an Infinite Wisdom, there may be diverse ends designed by that Omnipotent Architect, in scattering these VOLCANO'S up and down the Earth; among which this seems to be very clear and vi<g ref="char:EOLhyphen"/>sible, <hi>viz.</hi> For the Vegetation of the Earth; and the Production of all sorts of Minerals and Fossils, which without this subterraneous Fire dispersed every where through the Veins of the Earth, could scarce ever have been effected; especially in the colder Climates of the World, whatever may be thought to be done in the Torrid Zone by the Action of the Sun, and in those places which are more immoderately scorched by his direct beams. And that there is such a Vital Heat imparted from subterraneous Fire appears, in that Snow falling upon the Glebe or Turf newly turned up by the Plow, melts and dissolves upon it, till the coldness of the Ambient Air cause the Agitation of its Parts to cease. So that son any Reason I can see to the contrary, the fertility of Northern Countries owes it self in a very great measure to the subterraneous Fires dispersed through them, and so likewise those of the same Latitude in the opposite Pole. And further, as none of the least ends, that God may continue and keep up a lively
+<pb n="17" facs="tcp:204219:11"/>sense of his Being and Providence, by letting loose these raging Fires to rend and tear the Earth with vast Chasms and Divulsions, by which to cha<g ref="char:EOLhyphen"/>stise a wicked and Atheistical people, and to ma<g ref="char:EOLhyphen"/>nifest his Power over not only the upper but lower Regions. For such is the exquisite Art of Divine Wisdom in the contexture of the Earth, that one and the same Contrivance shall be sub<g ref="char:EOLhyphen"/>servient to accommodate to various Ends and Purposes. <hi>Virgil</hi> seems to make some guesses and imperfect Description of some of these subterra<g ref="char:EOLhyphen"/>neous Regions, when he introduces the Nymph <hi>CYRENE</hi> opening the Waters to make a pas<g ref="char:EOLhyphen"/>sage for her Son into those infernal shades,</p>
+               <q>
+                  <lg>
+                     <head>
+                        <hi>Duc age, duc ad nos,</hi> &amp;c.</head>
+                     <l>
+                        <hi>Come lead the Youth below, bring him to me,</hi>
+                     </l>
+                     <l>
+                        <hi>The Gods are pleas'd our Mansions he should see;</hi>
+                     </l>
+                     <l>
+                        <hi>Streight she commands the floods to make him way;</hi>
+                     </l>
+                     <l>
+                        <hi>They open their wide bosom, and obey;</hi>
+                     </l>
+                     <l>
+                        <hi>Sost is the path, and easie is his tread,</hi>
+                     </l>
+                     <l>
+                        <hi>A watry Arch bends o're his dewy head;</hi>
+                     </l>
+                     <l>
+                        <hi>And as he goes, he wonders and looks round,</hi>
+                     </l>
+                     <l>
+                        <hi>To see this new found Kingdom under ground.</hi>
+                     </l>
+                     <l>
+                        <hi>The silent Lakes in hollow Caves he sees,</hi>
+                     </l>
+                     <l>
+                        <hi>And on their banks an echoing Grove of Trees;</hi>
+                     </l>
+                     <l>
+                        <hi>The fall of Waters 'mongst the Rocks below,</hi>
+                     </l>
+                     <l>
+                        <hi>He hears, and sees the Rivers how they flow;</hi>
+                     </l>
+                     <l>
+                        <hi>All the great Rivers of the Earth are there,</hi>
+                     </l>
+                     <l>
+                        <hi>Prepar'd as in a womb by Nature's care.</hi>
+                     </l>
+                     <pb n="18" facs="tcp:204219:12"/>
+                     <l>
+                        <hi>Last, to his Mothers bed-chamber he's brought.</hi>
+                     </l>
+                     <l>
+                        <hi>Where the high roof with Pumice stone is wrought.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>And if we could open a way into the inner Region of the Earth, and could be admitted to a view or prospect of the subterraneous World, we should behold with wonder and amazement the various Apartments and concamerations of Nature; here immense Caves arched over with suspended Rocks, and filled with exhalations of all sorts of Minerals, and there the Orifices of lesser Ducts and Canals, opening themselves in<g ref="char:EOLhyphen"/>to the eternal Treasuries of sulphureous Smoke and Fire.
+<note place="margin">
+                     <hi>Nat. Ques.</hi> l. 3. c. 16.</note> Which <hi>Seneca</hi> long since took notice of,
+<q rend="margQuotes">The Laws of Nature (says he) under-ground, are less known indeed to us, but not less certain. Whatever you see above, believe the same to be beneath: For there are huge Dens, immense Recesses and large Spaces, and the Mountains standing upon an Arch of Rocks; here vast Gapings and broken hollows stretch<g ref="char:EOLhyphen"/>ing infinitely, which have often been the Graves to receive and bury whole Cities that have sunk into them.</q>
+               </p>
+            </div>
+            <div n="4" type="section">
+               <pb n="19" facs="tcp:204219:12"/>
+               <head>SECT. IV.</head>
+               <p>IT remains now that we consider the most im<g ref="char:EOLhyphen"/>mediate material Causes of Earthquakes. And here I shall not think it worth the while, to discourse of the several kinds which Metereo<g ref="char:EOLhyphen"/>logists make of Earthquakes, which the Reader may find in <hi>Libertus Fromondus</hi> his Meteors.
+<note place="margin">
+                     <hi>L.</hi> 4. <hi>C.</hi> 7. <hi>Art.</hi> 2.</note> Since they only differ gradually, and according to the greater or lesser force or activity of pre<g ref="char:EOLhyphen"/>pared Matter, they either shake the Earth, or else break through and rend it with formidable Divulsions. I say therefore that Earthquakes are the effects of subterraneous Fires: For we must conceive the Earth not to be a Homogeneous, but a Heterogeneous Mass throughout its whole substance, and here to be impregnated with a sul<g ref="char:EOLhyphen"/>phureous Matter; there with Nitrous, Alumi<g ref="char:EOLhyphen"/>nous, Vitriolate, or Mercurial; here to abound with a Bituminous substance, and there with Oker and Chalks; for these Exhalations being raised and excited from the inmost bowels of the Earth by the Action of a subterraneous Heat, diffuse themselves through the Pores and Fibres of the ground, and impregnate it with such qua<g ref="char:EOLhyphen"/>lities as themselves consist of. The force of Can<g ref="char:EOLhyphen"/>nons and subteraneous Mines used in the sieges of
+<pb n="20" facs="tcp:204219:13"/>Cities, loaden with Gunpowder, is strange and wonderful, there being nothing so firm, solid, and well compacted, that will not in a moment be thrown down and broken in pieces; all which terrible Ravages and Devastations are the effects of a certain kind of Dust made of Nitre, Sulphur and Coals. Now if an artificial Powder have such and irresistible force and violence, how much greater will the strength of that combustible Mat<g ref="char:EOLhyphen"/>ter be, which arises from Sulphur, Nitre, S<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Ammoniack, Bitumen, Gold, Copper, Iron, Arsuick, Mercury, and such other Mineral and Metallick Spirits, with which the bosome of the Earth is copiously furnished and replenished.</p>
+               <p>When therefore the subterraneous Fire breaking its Prison in the bowels of a Mountain, forces it self into those hollow Vaults that are filled and stored with all sorts of cumbustible Matter, it raises an immense quantity of Exhalations, which sud<g ref="char:EOLhyphen"/>denly taking fire, diffuse themselves far and wide through the Pipes and Cavities of the Earth, and according to their copiousness, and the more or less firmness of the superincumbent Earth, do ei<g ref="char:EOLhyphen"/>ther cause Tremblings and Concussions, or violent Eruptions, subversions of Cities, wide and deep Gulfs, sometimes swallowing the Ground, and leaving a Lake in it; stead; and at other times thrusting up the Earth from beneath, and forming a new Mountain, and all those other terrible effects which History records of Earthquakes.</p>
+               <pb n="21" facs="tcp:204219:13"/>
+               <p>And that there are in <hi>rerum Naturâ</hi> such mine<g ref="char:EOLhyphen"/>ral Substances, whose union is of sufficient force to produce whatever we find recorded of Earthquakes appears, in that if you make a Composition of Gold dissolved by <hi>Aqua Regia, Sal Ammoniack,</hi> and <hi>Oil of Tartar</hi> precipitate, and set it on fire, it will with a horrible crack strike through whatever is near, and makes any resistance, though it were a plate of Iron.</p>
+               <p>Hence it will not be difficult to give a Solution of those stupendious effects of Earthquakes, as</p>
+               <p n="1">1. What the reason is of those Thunderings un<g ref="char:EOLhyphen"/>der ground, and that dull murmur which usually precedes the Earthquake.</p>
+               <p n="2">2. How an Earthquake may sensibly be felt in divers Countries some hundreds of Miles distant from one another, at one and the same time, or with a very small difference.</p>
+               <p n="3">3. How Cities and whole Regions may be ab<g ref="char:EOLhyphen"/>sorped and swallowed up.</p>
+               <p n="4">4. Why there is for the most part an eruption of Waters where the Ground subsides and sinks down.</p>
+               <p n="5">5. How new Islands may be generated in the midst of the Sea by the force of Earthquakes.</p>
+               <pb n="22" facs="tcp:204219:14"/>
+               <p>For the first of these, What the cause should be of those Bellowings, Thunderings, and hoarse Murmurs, in the bowels of a Flammivomous Mountain, which are commonly heard before its Eruption, as if Nature had commenced a War be<g ref="char:EOLhyphen"/>tween two potent Enemies under ground. It was before observed out of <hi>Seneca, Crede infra, quicquid supra vides:</hi> Whatever you see above, believe the same to be acted beneath in the subterraneous Re<g ref="char:EOLhyphen"/>gions. And it is apparent, that the most fierce Aereal Meteors, such as Thunder and Lightning, and Whirl winds, have their original from Mine<g ref="char:EOLhyphen"/>ral Exhalations elevated from their dark beds be<g ref="char:EOLhyphen"/>neath in the Earth, into the upper Regions by the action of the Sun, and the heat of the subterra<g ref="char:EOLhyphen"/>neous Fire. Those dark Vaults, and immense Caverns under ground, seem the proper Kingdom wherein these Meteors discover their utmost fierceness, and rage the most horribly: Now wherever there is a concurrence of the same causes, there of necessity the same effects must be produ<g ref="char:EOLhyphen"/>ced. And since Naturalists do generally resolve the causes of prodigious Thunders in the Air to some Effluvia, Halitus, or Exhalations out of the Earth, (which is evident in that hot Regions which abound much with sulphureous and other mineral Glebe, are most obnoxious to these formi<g ref="char:EOLhyphen"/>dable and destructive Phaenomena,) it naturally follows, that those capacious subterraneous Dens which seem to equal whole Regions, and are close<g ref="char:EOLhyphen"/>ly
+<pb n="23" facs="tcp:204219:14"/>confert and crouded with all sorts of Mineral Exhalations, these Meteors should most of all do<g ref="char:EOLhyphen"/>mineer. And from the accension or firing of these Exhalations arise those dreadful Cracks and Thun<g ref="char:EOLhyphen"/>ders, which are usually heard before the eruption of a burning Mountain.</p>
+               <p>That ingenious Philosopher <hi>Des Cartes</hi> seems to resolve the roaring and bellowing of Thunder to the fall of one Cloud upon another, as Snow rol<g ref="char:EOLhyphen"/>ling in vast quantities from the top of the Alps to the Valleys beneath, imitates, saith he, the like sound or noise: But as Dr. <hi>More</hi> observes,
+<note place="margin">
+                     <hi>Enchirid. Met. p.</hi> 1. <hi>c.</hi> 23.</note> this instance is not well suited to the present occasion:
+<q rend="margQuotes">For a snowy Cloud is not near the consistency, ponderosity, and firmness of those Moles of Snow upon the Alps, much less does that lower Cloud upon which the higher is supposed to fall, equal the solidity of the Earth. To say nothing of the cavity and hollowness of these Valleys, which much increases the sound.</q> Moreover, as he further notes
+<q rend="margQuotes">some Thunders are so vehemently sonorous and acute, that it is impossible but it should drive the lower Cloud along with it to the Earth, the vehemency of the sound clearly arguing the forcibleness and swiftness of the Motion.</q>
+               </p>
+               <p>It were more consonant therefore to Experience and Observation, to resolve that hideous noise of Thunder into the violent discission and rending of the Air by the enkindled Particles; as we see a
+<pb n="24" facs="tcp:204219:15"/>small quantity of <hi>Aurum Fulminans</hi> set on sire upon the point of a Knife, give such a dreadful crack as is scarce to be endured. To this purpose I remem<g ref="char:EOLhyphen"/>ber Mr. <hi>Boil,</hi> somewhere in his History of Cold, relates a story something to this purpose; That the Miners in <hi>Hungary</hi> having dug to a vast depth in the Earth, are sometimes sensible of an Exha<g ref="char:EOLhyphen"/>lation, that catching fire at their Lights, singes their Hair and Faces; and therefore at the first approach of it they fall flat to the ground; but this Exhalation no sooner comes to the mouth of the Pit, at the open Air, but it causes a noise or sound equal to that in the discharge of a Cannon.</p>
+               <p>From hence it is manifest, That there may be more direful and terrible Thunders, according to the diversity of Exhalations, in the subterra<g ref="char:EOLhyphen"/>neous Vaults, than ever have been taken notice of in the Aereal Regions: And that those hol<g ref="char:EOLhyphen"/>low and dull murmurs at the foot of a slaming Mountain, owe their original to the vehement con<g ref="char:EOLhyphen"/>slict of these enkindled Exhalations with the Air, and are the fore-runners of that lamentable Tragedy that usually ensues and follows.</p>
+               <p>To the Second, How an Earthquake may sen<g ref="char:EOLhyphen"/>sibly be felt in divers Countries at some hundreds of Miles distance from one another, at one and the same time, or with a small difference; I an<g ref="char:EOLhyphen"/>swer, That it hath been before shown that the Earth is perforated throughout with innumerable
+<pb n="25" facs="tcp:204219:15"/>Burrows and Cavities, and that there is a subterra<g ref="char:EOLhyphen"/>neous passage or in-let from one to another, and that there is no Country but hath some of these Branches which communicate with greater and more capacious Caves and Dens; now whereever an Earthquake begins, there it is probable there is an infernal <hi>Pyrophylacium,</hi> or Treasury of Fire, either under or near it, by which means, or by a mingling together among themselves, the Exhala<g ref="char:EOLhyphen"/>tions being once set on fire, in a moment they dif<g ref="char:EOLhyphen"/>fuse and spread themselves like a train of Gunpow<g ref="char:EOLhyphen"/>der, for there being fitly prepared Matter in all these Pipes and Cavities, which being all in an in<g ref="char:EOLhyphen"/>stant set on fire, it is no wonder if it be felt, though at a vast distance from the place where it first be<g ref="char:EOLhyphen"/>gan, these Spirits being in their passage as quick as Lightning. And in those places where the con<g ref="char:EOLhyphen"/>cussion is more violent, it is very rational to sup<g ref="char:EOLhyphen"/>pose some of these Cavities underneath; but where the Earth is more hard and solid, it may so happen, that by battering the Arch of some subter<g ref="char:EOLhyphen"/>raneous Dens, by the extreme violence of these enkindled Exhalations, it may make even a whole Region shake and tremble, by reason of the conti<g ref="char:EOLhyphen"/>nuity of its parts.</p>
+               <p>From hence a probable account may be given of the running of an Earthquake to a hundred and threescore, nay three hundred Leagues, as <hi>Josephus Acosta</hi> informs us. And 'tis reported that under the Reign of <hi>Valentinian,</hi> almost
+<pb n="26" facs="tcp:204219:16"/>the whole World was shook by an Earthquake; which could not well be felt in all places at the same time, unless either the Concavity be conti<g ref="char:EOLhyphen"/>nuous, or there be a Communication from one to another through smaller and narrower Pipes; for so one will receive the flame and force from another. Moreover the depth of the Cavern may cause that the same Igneous Spirit at one stroke may force a vast portion of the superficies of the Earth to tremble. For since the lines drawn from the Circumference to the Center of the Earth, are not parallel, but come nearer together, the deeper they descend; it is necessary that the portion of Earth intercepted between two lines should be gradually straitned like a wedge, and broadest at the superficies of the Earth: whence a Cavern whose latitude does not exceed a quarter of a Mile, so that it be not far from the Center or lowest Region, may sustain all <hi>Eu<g ref="char:EOLhyphen"/>rope.</hi> But the force and Energy of the exhalations included within such a space, must be incredible to move and shake so great a Mole of Earth. Therefore if it should so happen that all <hi>Europe</hi> (for example) should be shaken, it is easie to imagine that the fiery Exhalations are disposed not in one but in divers Caverns, and shake the se<g ref="char:EOLhyphen"/>veral parts of the Earth, not by one but ma<g ref="char:EOLhyphen"/>ny strokes, the Flame passing through Chinks and Clefts from one subterraneous Burrow to an<g ref="char:EOLhyphen"/>other.</p>
+               <pb n="27" facs="tcp:204219:16"/>
+               <p>From the foregoing Principles, it will not be difficult to give a solution to the third proposed Question, <hi>viz.</hi> How Cities and whole Regions may be absorped and swallowed up? We have taken notice afore, that Earthquakes are the ef<g ref="char:EOLhyphen"/>fects of enkindled Exhalations, which consist not only of sulphureous and bituminous Spirits, but of Pit-Coals, Alom, Nitre, Antimony, Vitriol, Mercury, and the Halitus of all manner of Mi<g ref="char:EOLhyphen"/>nerals, Fossils and Metals, which Nature ex<g ref="char:EOLhyphen"/>tracts and mixes in those infernal Vaults by a subtler sort of Chymistry, than Art can reach to the Imitation of. Now when a City or Region shall stand upon a Vault replenished with this combustible matter, according to the profundity of the Cavity, and solidity of the incumbent Earth, these fiery Exhalations may not blow up all immediately into the Air, but by their sudden Impetus or jolting, loosen or disjoyn a part or portion of ground from the rest, which then by its own weight will subside and sink; of which Ravages and Devastations we have many ex<g ref="char:EOLhyphen"/>amples. Those two famous Cities of <hi>Achaia, Helice</hi> and <hi>Buris,</hi> are said to be thus absorped and swallowed up by an Earthquake; which <hi>Ovid</hi> takes notice of, <hi>Met.</hi> 15.</p>
+               <q>
+                  <l>
+                     <hi>Si quaeris Helicen &amp; Burin Achaidos urbes,</hi>
+                  </l>
+                  <l>
+                     <hi>Invenies sub aquis &amp; adhuc ostendere nautae</hi>
+                  </l>
+                  <l>
+                     <hi>Inclinata solent cum moenibus oppida mersis.</hi>
+                  </l>
+               </q>
+               <pb n="28" facs="tcp:204219:17"/>
+               <p>And if it be true that <hi>Helice</hi> was thirteen fur<g ref="char:EOLhyphen"/>longs, and <hi>Buris</hi> forty, distant from the Sea (as <hi>Fromondus</hi> relates) there was likewise a great quantity of Land that sunk together with those Cities. And <hi>Kircher</hi> tells us in his Description of that dismal Earthquake, which beginning at <hi>Strombalo</hi> in the year 1638. made such a miser<g ref="char:EOLhyphen"/>able havock in <hi>Calabria,</hi> that when he and his Companions were risen from the ground upon which they were not able to stand for the violent concussion and subsultation of the Earth, and casting their eyes upon the circumjacent places, they saw the Town of <hi>Euphemia</hi> covered with a mighty Mist; which being dissipated, instead of the Town they found a stinking Lake in its place. And after the same manner that famous Land of <hi>Plato</hi>'s called <hi>Atlantis,</hi> which the <hi>Egyptian</hi> Priests told <hi>Solon</hi> the <hi>Athenian,</hi> was bigger than <hi>Asia</hi> and <hi>Africa,</hi> by an Earthquake of a nights con<g ref="char:EOLhyphen"/>tinuance sunk into the Abyss, the <hi>Atlantick Ocean</hi> coming in its place, and nothing remaining of that terrible shipwreck, but the <hi>Azores,</hi> and some few Islands scattered up and down in that Ocean: as <hi>Fromondus</hi> speaks;
+<note place="margin">
+                     <hi>Meteo l.</hi> 4. <hi>c.</hi> 9. <hi>Art.</hi> 7.</note> By which it seems there was some Tradition among the <hi>Aegyptians</hi> of the sepa<g ref="char:EOLhyphen"/>ration of <hi>America</hi> from our World.
+<note place="margin">
+                     <hi>L.</hi> 1. <hi>c.</hi> 18. <hi>propos.</hi> 17.</note>
+                  <hi>Varenius</hi> in his Geography thinks it at least probable that the Northern part of <hi>America,</hi> i. e. <hi>New France, New England, Canada,</hi> &amp;c. were once joyned to <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and that this separation might be caused by
+<pb n="29" facs="tcp:204219:17"/>an Earthquake. Thus <hi>England</hi> might be torn from <hi>France, Spain</hi> from <hi>Africa,</hi> and <hi>Sicily</hi> from <hi>Italy,</hi> the intermediate Earth sinking, and the Sea coming in its stead.</p>
+               <p>We come now to the Resolution of the Fourth Question, Why there is for the most part an erup<g ref="char:EOLhyphen"/>tion of Waters where the ground subsides and sinks down? To this end we may consider that there are <hi>Hydrophylacia, i. e.</hi> Repositories or Treasuries of subterraneous Waters, as well as subterraneous Fires, of different magnitudes and capacities, which have likewise their lesser Pipes and hollow Branches, through which the Waters are distri<g ref="char:EOLhyphen"/>buted and dispersed up and down; and some of these Caves may be of that depth as to reach to the vast watry Abyss beneath. Now when by the force of those furiously agitated Exhalations a portion of Earth shall be loosened from its con<g ref="char:EOLhyphen"/>tinuity with the rest, and sink and fall down into one of these Repositories, the suddenness of the descent of such a mighty <hi>Moles</hi> or quantity of Earth, must forcibly drive up the Waters like a Flood or Torrent to the surface of the ground, through that wide Gulf left by the descending Earth: As was experienced in that terrible Earth<g ref="char:EOLhyphen"/>quake in <hi>Jamaica,</hi> when a part of the Town of <hi>Port-Royal</hi> sinking, a Flood of Water immediately gushed out. It were endless to bring the several instances of this Nature, and therefore I shall pass to the last Question,</p>
+               <pb n="30" facs="tcp:204219:18"/>
+               <p>How new Islands may be generated in the midst of the Sea by the force of Earthquakes? Of this nature many examples are related in History;
+<note place="margin">
+                     <hi>L.</hi> 2, <hi>C.</hi> 87, 33.</note>
+                  <hi>Pliny</hi> in his Natural History making mention of <hi>Delos</hi> and <hi>Rhodes, Anephe, Nea, Ajone,</hi> and among the <hi>Cyclades, Thera,</hi> and <hi>Therasia,</hi> and <hi>Thia,</hi> which he says first saw the light of this upper World in his time, <hi>Junius Syllanus,</hi> and <hi>L. Balbus</hi> being Consuls, hath these words; <hi>Nascuntur &amp; alio mo<g ref="char:EOLhyphen"/>do Terrae, ac repente in aliquo Mari emergunt, veluti paria secum faciente Naturà, quaeque hauserit hiatus, al<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o loco reddente, i. e.</hi> Some Lands are otherwise generated, and of a sudden arise out of the Sea; as if Nature intended to keep an equality with it self, and return as much a new in one place, as was swallowed up and absorped by a gaping Gulf in another. Of <hi>Therasia, Seneca</hi> witnesses, That it was thrust from the bottom of the Sea, in his time, by the force of subterraneous Fires, <hi>Thera<g ref="char:EOLhyphen"/>siam nostrae aetatis Insulam, spectantibus Nautis, in Aegeo Mari enatam, quis dubitat, quin in lucem spiritus vexerit?</hi>
+               </p>
+               <p>Now in the formation of a New Island, these Exhalations move much after the manner of a Mole heaving and casting up the ground; thus in one nights space a New Mountain thrust up its head a Mile high, out of the Sea near <hi>Puteoli,</hi> by the force of these Spirits, which were enkindled in a subterraneous Vault; which therefore was called by the name of the New Mountain.</p>
+               <pb n="31" facs="tcp:204219:18"/>
+               <p>I have dispatch'd now what I thought the most considerable upon this Subject, there being scarce any Problem can be started concerning Earth<g ref="char:EOLhyphen"/>quakes, but what by an attentive consideration of the foregoing Discourse, may receive an easie solution. And if any one shall think that these Phaenomena being terrible and rare, that there<g ref="char:EOLhyphen"/>fore they must needs signifie and prognosticate strange things; I must tell him, That as I am not at all inclinable to Astrological Vanities: so I think that an Earthquake may happen as well as many a blazing Star, without any ominous or dire<g ref="char:EOLhyphen"/>ful Presages. But if any thing can be collected from the late Earthquake with us, it is this, That as we had a long calm and serenity of Wea<g ref="char:EOLhyphen"/>ther after it; so a lasting Peace and Tranquillity will be setled in the World, by the Conduct and Victorious Arms of KING <hi>WILLIAM,</hi> Whom God long preserve.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Archaeologiae Philosophicae: Sive Doctrina antiqua de Rerum Originibus. Libri Duo. 4<seg rend="sup">to.</seg>
+            </p>
+            <p>Joannis Antiocheni cognomento Malalae Historia Chro<g ref="char:EOLhyphen"/>nica. E MS. God. Bibliothecae Bodleianae nunc primum edi<g ref="char:EOLhyphen"/>ta. Cum Interpret. &amp; Notis <hi>Edm. Chilmeadi,</hi> &amp; triplice Indice Rerum, Autorum, &amp; Vocum Barbararum. <hi>Gr. Lat.</hi> 8vo. E Theatro Sheldoniano <hi>Both Sold by</hi> Walt. Kettilby, <hi>at the</hi> Bishop<hi>'s</hi> Head in S <hi>Paul</hi>'s Church-Yard.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
